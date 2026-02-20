@@ -45,12 +45,3 @@ A content-based movie recommendation system built with **Streamlit**, powered by
 
 ---
 
-## 🙋‍♂️ About Me
-
-I'm **Hiten Hasija**, a final-year engineering student passionate about machine learning and real-world AI applications.
-
-📬 [LinkedIn](https://linkedin.com/in/hitenhasija) | [GitHub](https://github.com/hitenhasija)
-
----
-
-> Built to learn. Built to share. Built to stand out. 🌟
